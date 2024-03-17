@@ -22,3 +22,4 @@ void PrintArray(string[] array)
 }
 TransformedArray(array1, array2);
 PrintArray(array2);
+23
